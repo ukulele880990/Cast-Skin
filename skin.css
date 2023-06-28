@@ -1,9 +1,9 @@
 .background {
-  background: center no-repeat url(background.jpeg);
+  background: center no-repeat url('https://github.com/ukulele880990/Cast-Skin/blob/a82ac13539e76d0a7885edd23f358a0c88741af9/background.jpeg');
 }
 
 .logo {
-  background-image: url(background.jpeg);
+  background-image: url('https://github.com/ukulele880990/Cast-Skin/blob/a82ac13539e76d0a7885edd23f358a0c88741af9/background.jpeg');
 }
 
 .progressBar {
@@ -11,10 +11,10 @@
 }
 
 .splash {
-  background-image: url(background.jpeg);
+  background-image: url('https://github.com/ukulele880990/Cast-Skin/blob/a82ac13539e76d0a7885edd23f358a0c88741af9/background.jpeg');
 }
 
 .watermark {
-  background-image: url(background.jpeg);
+  background-image: url('https://github.com/ukulele880990/Cast-Skin/blob/a82ac13539e76d0a7885edd23f358a0c88741af9/background.jpeg');
   background-size: 57px 57px;
 }
